@@ -7,5 +7,6 @@ namespace StoreLittleFoot.Controllers
 {
     public class Categorias
     {
+        public int MyProperty { get; set; }
     }
 }
